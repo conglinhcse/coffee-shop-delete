@@ -1,0 +1,13 @@
+C:\Programing\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Programing\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Programing\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Programing\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojAssemblyReference.cache
+C:\Programing\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.fLogin.resources
+C:\Programing\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+C:\Programing\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+C:\Programing\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Programing\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Programing\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Programing\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.fTableManager.resources
+C:\Programing\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.fAdmin.resources
+C:\Programing\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.fAccInfo.resources
